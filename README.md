@@ -1,7 +1,4 @@
-![glitchSignature](https://user-images.githubusercontent.com/116693779/223161888-8754b820-d1cb-44a0-9fe0-a7e4dabab461.gif)
-http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
-
-                                
+![glitchSignature](https://user-images.githubusercontent.com/116693779/223161888-8754b820-d1cb-44a0-9fe0-a7e4dabab461.gif)                             
 
 Hi, I’m @PatzEdi.
 
