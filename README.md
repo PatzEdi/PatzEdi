@@ -1,6 +1,12 @@
 ![glitchSignature](https://user-images.githubusercontent.com/116693779/223161888-8754b820-d1cb-44a0-9fe0-a7e4dabab461.gif)
 
 
+   ___       __      ____   ___ 
+  / _ \___ _/ /____ / __/__/ (_)
+ / ___/ _ `/ __/_ // _// _  / / 
+/_/   \_,_/\__//__/___/\_,_/_/  
+                                
+
 Hi, I’m @PatzEdi.
 
 My real name is Edward Ferrari.
