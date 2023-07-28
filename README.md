@@ -1,4 +1,4 @@
-![glitchSignature](https://user-images.githubusercontent.com/116693779/223161888-8754b820-d1cb-44a0-9fe0-a7e4dabab461.gif)                             
+<img width="443" alt="Screenshot 2023-07-28 at 11 27 28 AM" src="https://github.com/PatzEdi/PatzEdi/assets/116693779/0040d2ef-a943-4744-b01f-01f28a57b205">
 
 Hi, I’m @PatzEdi.
 
