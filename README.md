@@ -7,15 +7,15 @@ You can visit my website here: [PatzEdi's Website](https://patzedi.github.io)
 
 [![Email Badge](https://img.shields.io/badge/Gmail-Contact_Patzedi-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=f54a33)](mailto:patzedigithub@gmail.com)
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FPatzEdi%2Fprofile-visitors&label=Visitors%20Today&countColor=%23ba68c8&style=flat-square)
+![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FPatzEdi%2F&label=Visitors%20Today&countColor=%23ba68c8&style=flat-square)
 
 [![PatzEdi's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=patzedi&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 [![PatzEdi's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=patzedi&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patzedi&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Used Languages stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=patzedi&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patzedi&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Used Languages stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=patzedi&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ## **My Interests**
   - Software/Coding
