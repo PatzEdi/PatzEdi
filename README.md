@@ -35,6 +35,8 @@ You can visit my website here: [PatzEdi's Website](https://patzedi.github.io)
 
   [![Version Control](https://img.shields.io/badge/Version_Control-Git-green?style=flat-square&logo=git&logoColor=FFFFFF&labelColor=3A3B3C&color=E44C30)](https://git-scm.com/)
 
+  [![Favorite Game Engine](https://img.shields.io/badge/Fav._Game_Engine-Godot-green?style=flat-square&logo=godotengine&logoColor=FFFFFF&labelColor=3A3B3C&color=1f248c)](https://godotengine.org/)
+
 If someone needs help with something, I am looking to collaborate on different projects involving python, ethical hacking, and in the near future machine learning.
 
 Please feel free to star my repositories or leave comments on what I can do to improve. We are all a team here.
