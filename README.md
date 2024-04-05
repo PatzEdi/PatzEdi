@@ -1,13 +1,11 @@
 
-Hello, I’m @PatzEdi.
+<h1 align="center">Hello! I'm PatzEdi</h1>
 
 My real name is Edward Ferrari.
 
-You can visit my website here: [PatzEdi's Website](https://patzedi.github.io)
+[Click to visit my website](https://patzedi.github.io)
 
 [![Email Badge](https://img.shields.io/badge/Gmail-Contact_Patzedi-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=f54a33)](mailto:patzedigithub@gmail.com)
-
-![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FPatzEdi%2F&label=Visitors%20Today&countColor=%23ba68c8&style=flat-square)
 
 [![PatzEdi's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=patzedi&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
