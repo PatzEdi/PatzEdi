@@ -7,9 +7,6 @@ My real name is Edward Ferrari.
 
 [![Email Badge](https://img.shields.io/badge/Gmail-Contact_Patzedi-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=f54a33)](mailto:patzedigithub@gmail.com)
 
-[![PatzEdi's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=patzedi&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-[![PatzEdi's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=patzedi&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 [![Used Languages stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=patzedi&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
@@ -35,7 +32,9 @@ My real name is Edward Ferrari.
 
   [![Favorite Game Engine](https://img.shields.io/badge/Fav._Game_Engine-Godot-green?style=flat-square&logo=godotengine&logoColor=FFFFFF&labelColor=3A3B3C&color=1f248c)](https://godotengine.org/)
 
-If someone needs help with something, I am looking to collaborate on different projects involving python, ethical hacking, and in the near future machine learning.
+  [![Favorite ML Framework](https://img.shields.io/badge/Fav._ML_Framework-PyTorch-green?style=flat-square&logo=pytorch&logoColor=FFFFFF&labelColor=3A3B3C&color=fc5a03)](https://pytorch.org)
+
+If someone needs help with something, I am looking to collaborate on different projects involving python, ethical hacking, and machine learning.
 
 Please feel free to star my repositories or leave comments on what I can do to improve. We are all a team here.
 
