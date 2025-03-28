@@ -22,7 +22,8 @@ My real name is Edward Ferrari.
   ![OS](https://img.shields.io/badge/OS-Mac_OS-green?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=3A3B3C&color=purple)
   ![Type](https://img.shields.io/badge/apple%20silicon-333333?style=flat-square&logo=apple&logoColor=white)
 
-  [![Editor](https://img.shields.io/badge/Editor-VS_Code-green?style=flat-square&logo=visual%20studio%20code&logoColor=FFFFFF&labelColor=3A3B3C&color=blue)](https://code.visualstudio.com/)
+  [![Editor](https://img.shields.io/badge/Editor-Zed-green?style=flat-square&logo=zed-industries&logoColor=FFFFFF&labelColor=3A3B3C&color=white)](https://zed.dev/)
+  ![Type](https://img.shields.io/badge/w/Vim_binds--green?logo=vim)
 
   [![Terminal](https://img.shields.io/badge/Terminal-iTerm2-green?style=flat-square&logo=iterm2&logoColor=FFFFFF&labelColor=3A3B3C&color=48c246)](https://iterm2.com/)
 
