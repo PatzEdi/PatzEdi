@@ -1,6 +1,10 @@
 
 <h1 align="center">Hello! I'm PatzEdi</h1>
 
+<p align="center">
+  <img src="assets/computer_animation.gif" alt="computer animation" width="400" />
+</p>
+
 My real name is Edward Ferrari.
 
 [Click to visit my website](https://patzedi.github.io)
