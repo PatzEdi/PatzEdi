@@ -12,9 +12,9 @@ My real name is Edward Ferrari.
 [![Email Badge](https://img.shields.io/badge/Gmail-Contact_Patzedi-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=f54a33)](mailto:patzedigithub@gmail.com)
 
 
-[![Used Languages stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=patzedi&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+<!--[![Used Languages stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=patzedi&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)-->
 
-[![Used Languages stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=patzedi&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<!--[![Used Languages stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=patzedi&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)-->
 
 ## **My Interests**
   - Software/Coding
